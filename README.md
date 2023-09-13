@@ -1,4 +1,4 @@
-# interchain_hackathon
+# interchain-hackathon
 
 ## About the Interchain Hackathon
 
